@@ -1,0 +1,235 @@
+body {
+    margin:0;
+    padding: 0;
+    background-color: #991f94 ;
+    background-attachment: scroll;
+}
+
+#logoEni{
+    height: 75%;
+    width: 75%;
+    border-radius: 100%;
+    margin-top: 10%;
+
+}
+
+#header{
+    background-image: url('https://www.groupe-igs.fr/sites/demo-groupe/files/igs/2019-07/top-10-startup-innovantes-2019.png');
+    width: 100%;
+    height: 340px;
+
+   
+}
+
+#imgHeader{
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    margin-left: 77%;
+}
+
+.divHead{
+    background-color: #ebebeb;
+}
+
+section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.article1{
+    width: 30%;
+    align-content: center;
+    margin: 14%;
+    text-align: right;
+}
+
+aside{
+    margin:20px;
+
+}
+#imgNiv1,#imgNiv2,#imgNiv3{
+    border-radius: 100%;
+    height:100px;
+    width: 100px;
+}
+.imp{
+    border-radius: 100%;
+    height:100px;
+    width: 100px;
+}
+p{
+    font-size: large;
+    color: white;
+    font-family: monospace;
+}
+
+.nivColor{
+    margin-top: 5px;
+    display: flex;
+    background-color: #991f94 ;
+    height: 350px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.qfc{
+    display: flex;
+    border: solid;
+    border-width: 2px;
+    padding: 3%;
+    border-color: #f1cf13;
+    color: #f1cf13;
+    font-size: 25px;
+    text-decoration: none;
+    padding-left: 70px;
+    margin:80px
+
+}
+
+.formationDip{
+    font-size: 30px;
+    font-family: monospace;
+    margin-right: 45px;
+
+}
+
+.caSaoul{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+
+}
+.imgDip{
+
+    border-radius: 2px;
+    height: 350px ;
+    width: 350px;
+}
+
+.section2{
+    display: flex;
+    height: 500px;
+    background-color: #671565;
+    margin-top: 150px ;
+    border-radius: 1%;
+    margin-bottom: 240px;
+    margin-right: 270px;
+    margin-left: 270px;
+
+}
+
+
+.article2{
+    align-content: center;
+    margin: 10%;
+    text-align: center;
+}
+
+h2{
+    color: #ffed00 ;
+    font-family: monospace;
+}
+
+h3{
+    color: #ffed00 ;
+    font-family: monospace;
+    align-items: start;
+}
+
+.pDip{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    list-style-image : url("../asset/icons8-case-cochée-20.png");
+    text-align:justify;
+ }
+
+ a :hover{
+     opacity: 0.20;
+ }
+
+ .row{
+     padding-top: 5px;
+     display: flex;
+     flex-direction: row;
+     align-content: center;
+     justify-content: space-around;
+     height: 190px;
+     padding-bottom: 5px;
+ }
+
+.divRo{
+
+    background-color: #0774c7;
+    height: 100%;
+    width: 60%;
+    text-align: center;
+
+
+}
+
+.divRo1{
+     background-color:#0ca8b1;
+     height: 100%;
+     width: 60%;
+     text-align: center;
+}
+
+.divRo2{
+      background-color: #99af01;
+      height: 100%;
+      width: 60%;
+      text-align: center;
+}
+
+.divRo3{
+       background-color: #01576f;
+       height: 100%;
+       width: 60%;
+       text-align: center;
+
+}
+
+.pI{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 30px;
+}
+
+.imgRo{
+    margin:10px
+}
+
+a{
+    text-decoration: none;
+}
+footer{
+    background-color: midnightblue;
+    height: 170px;
+}
+.foot{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    padding-top: 40px;
+}
+
+
+
+
+
+
